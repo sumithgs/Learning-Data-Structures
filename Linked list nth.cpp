@@ -66,7 +66,7 @@ Print();
 Insert(5,2); // 4,5,2,3
 Print();
 
-Delete(1); // 5,2,2
+Delete(1); // 5,2,3
 Print();
 Delete(3); // 5 2
 Print();
