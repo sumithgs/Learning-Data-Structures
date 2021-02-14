@@ -11,7 +11,7 @@
             ["-o",
                 "main",
                 "-g",
-                "reverse LL.cpp"
+                "print LL.cpp"
             ],
             "group":{
                 "kind": "build",
