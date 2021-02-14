@@ -1,11 +1,12 @@
+//inserting at beginning
+
 #include<stdio.h>
 #include<stdlib.h>
-
 struct Node{
     int data;
     Node *link;
 };
-Node *head;
+Node *head; //global variable
 void Insert(int x){
 Node *temp = new Node;
 temp->data=x;
@@ -30,8 +31,8 @@ int main(){
 for(int i=0;i<n;i++){
     printf("enter the number:\n");
     scanf("%d",&x);
-    Insert(x);
-    Print();
+    Insert(x); // inserting
+    Print(); // printing
 }
 }
 
