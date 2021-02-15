@@ -77,7 +77,7 @@ Print();
 InsertAtHead(4); // 4,3,2,1
 Print();
 ReversePrint(); // 1,2,3,4
-InsertAtTail(5);
+InsertAtTail(5); // 4,3,2,1,5
 Print();
 }
 
