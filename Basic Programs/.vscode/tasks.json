@@ -11,7 +11,7 @@
             ["-o",
                 "main",
                 "-g",
-                "doubly LL.cpp"
+                "stack1.cpp"
             ],
             "group":{
                 "kind": "build",
