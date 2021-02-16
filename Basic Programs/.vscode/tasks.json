@@ -11,7 +11,7 @@
             ["-o",
                 "main",
                 "-g",
-                "stack_LL.cpp"
+                "balanced_parenthesis.cpp"
             ],
             "group":{
                 "kind": "build",
